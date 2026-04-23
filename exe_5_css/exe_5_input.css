@@ -1,0 +1,12 @@
+.campo-input {
+    color:purple;
+    font-size:15px;
+    padding:  10px;
+    border: 2px solid pink;
+    border-radius: 5px;
+    width: 300px;
+
+} 
+.titolo{
+    color:blue;
+}
