@@ -1,0 +1,17 @@
+table {
+            border-collapse: collapse;
+            width: 400px;
+          }
+
+          td {
+            padding: 10px 16px;
+            border: 1px solid #ccc;
+          }
+
+          tr:nth-child(odd) {
+            background-color: lightgrey;
+          }
+
+          tr:hover {
+            background-color: #d0e8ff;
+          }
