@@ -1,0 +1,13 @@
+li {
+    background-color: blue;
+            margin: 5px 0;
+     padding: 6px 10px;
+            cursor: pointer;
+            transition: color 0.2s;
+width: 200px;
+}
+li:hover {
+   
+    color: red;
+            font-weight: bold;
+}
