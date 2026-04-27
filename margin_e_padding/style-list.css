@@ -1,0 +1,20 @@
+.pippo li {
+  margin: 0;
+  padding: 10px;
+  color: blue;
+  list-style-type: none;
+  background-color: aqua;
+  margin-bottom: 10px;
+}
+.pluto li {
+  margin: 0;
+  margin-bottom: 5px;
+  padding: 15px 20px;
+  list-style-type: none;
+  background-color: #333;
+  color: white;
+  cursor: pointer;
+}
+li:hover {
+            background-color: #555;
+          }
