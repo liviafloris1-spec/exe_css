@@ -1,0 +1,8 @@
+ li {
+            margin: 5px;
+            padding: 10px;
+            color: red;
+            background-color: yellow;
+          }
+          li span {
+            color: black;  /* Colore del testo */}
