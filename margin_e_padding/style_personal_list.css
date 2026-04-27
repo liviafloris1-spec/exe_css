@@ -1,8 +1,27 @@
+  ul {
+            list-style-type: square;
+          }
+ 
  li {
             margin: 5px;
             padding: 10px;
             color: red;
             background-color: yellow;
           }
+          li::marker {
+            color: red;
+            font-size: 20px;
+          }
           li span {
             color: black;  /* Colore del testo */}
+                
+            .pippo 
+          li {
+            margin: 8px 0;
+            padding: 12px 15px;
+            color: #c00;
+            background-color: #ffe;
+            border-left: 3px solid #c00;
+                
+
+            }
